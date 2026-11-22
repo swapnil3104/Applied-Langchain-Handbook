@@ -1,0 +1,4 @@
+id,service,sla_uptime,support_tier,incident_escalation
+101,Vector Search Engine,99.95%,Tier-1 Mission Critical,devops-oncall@enterprise.internal
+102,Batch Embedding Pipeline,99.50%,Tier-2 Standard,ml-platform@enterprise.internal
+103,Evaluation Dashboard,99.00%,Tier-3 Internal,analytics-team@enterprise.internal
